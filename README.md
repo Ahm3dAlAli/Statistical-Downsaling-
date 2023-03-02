@@ -23,7 +23,7 @@ Accurate precipitation data is essential for climate research and a wide range o
 <a name="data"></a>
 ## 📊 Data
 
-We used precipitation data from the Coordinated Regional Downscaling Experiment (CORDEX) dataset, which provides coarse-scale (50km) global precipitation projections for the 21st century. The data was obtained from the Earth System Grid Federation (ESGF), and we selected a specific region for our study, Southeast Asia.
+We used precipitation data from the Coordinated Regional Downscaling Experiment (CORDEX) dataset, which provides coarse-scale (50km) global precipitation projections for the 21st century. The data was obtained from the Earth System Grid Federation (ESGF), and we selected a specific region for our study, Central  America.
 
 
 <a name="methodology"></a>
