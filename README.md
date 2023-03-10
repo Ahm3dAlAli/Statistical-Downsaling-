@@ -1,4 +1,4 @@
-# 🌧️ Refining Coarse Projected Precipitation Mapping Using Statistical Downscaling by Deep Learning Project 🧠
+# 🌧️ Refining Coarse Projected Precipitation Mapping Using Statistical Downscaling by Deep Learning Project 🗺
 
 Welcome to my project on refining coarse projected precipitation mapping using statistical downscaling by deep learning! This project is focused on improving the accuracy of coarse-scale climate model output by using deep learning techniques to downscale the precipitation data. The aim of this project is to provide more detailed and accurate precipitation maps for use in climate research and related fields.
 
